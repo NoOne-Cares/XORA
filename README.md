@@ -30,7 +30,7 @@ To get started with the Sora project, follow the steps below to set up the devel
    ```bash
    git clone https://github.com/NoOne-Cares/XORA
    cd XORA
-```
+   ```
 2. **Clone the repository**:
 
   ```bash
